@@ -1,0 +1,33 @@
+
+
+
+
+body{
+
+    
+    margin: 0%;
+    background-color: black;
+    color: white;
+    
+
+}
+
+svg{
+
+    width: 25px;
+    max-width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 50px 1fr 50px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+
+}
+
+header .logo{
+
+    font-weight: bold;
+}
+
